@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokemonExplorer</string>
+    <string name="enter_type">Enter Pokémon type</string>
+    <string name="type_hint">fire, water, grass, electric...</string>
+    <string name="search">Search</string>
+    <string name="pokemon_image">Pokémon image</string>
+</resources>
